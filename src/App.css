@@ -1,0 +1,25 @@
+
+.btn-teal {
+    color: black;
+    background-color: lightgreen;
+    border: none;
+}
+
+.btn-teal:hover {
+    background-color: lightgreen;
+}
+
+.bg-red {
+    color:black;
+    background-color: rgb(248, 182, 182);
+}
+
+.bg-yellow {
+    color:black;
+    background-color: rgb(252, 252, 133);
+}
+
+.head-color{
+    background-color: rgb(207, 237, 247);
+    border-color: black;
+}
